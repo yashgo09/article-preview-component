@@ -14,7 +14,7 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 
 ### The challenge
 
-The challenge what that the users should be able to:
+The challenge was that the users should be able to:
 
 - View the optimal layout for the component depending on their device's screen size
 - See the social media share links when they click the share icon
